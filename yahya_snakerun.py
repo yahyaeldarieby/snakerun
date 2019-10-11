@@ -12,10 +12,10 @@
 
 # Forever Loop
 # x = Get user input
-# if(x) = Arrow left  Then move the snake to left
-# if(x) = Arrow right Then move the snake to right
-# if(x) = Arrow up   Then move the snake up
-# if(x) = Arrow down Then move the snake down
+# if(x) = Arrow A then press enter then the snake will move the to left
+# if(x) = Arrow D then press enter then the snake will move the to right
+# if(x) = Arrow W then press enter then the snake will move the to up
+# if(x) = Arrow S then press enter then the snake will move the to down
 
 # If new location has a fruit, then snake-length is doubled (or bigger)
 # If new location has a obstacle, then the snake dies and exit the game
