@@ -1,8 +1,8 @@
 # Snakerun
-Text based game of a snake eating fruits to get bigger and there are obstacles in your way to make you die and if the obstacles hit you the game is over and you restart and try to beat your own high score
+A text based game game where you eat fruits and get bigger as a snake and as you are going there will be obstacles that will stop kill you
 
-# Instalation
-You have to download python 3.7 to be able to play the game
+# Installation
+You must install python 3.7 to play this game
 
-# Running the program
-to run the program simply just type python yahya_eldarieby_snakerun.py
+# Run the program
+use python snakerun.py
