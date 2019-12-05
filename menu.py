@@ -1,24 +1,23 @@
-directions = ['*right', '*left', '*up', '*down']
-
-fruits = ['*apples', '*pineapples', '*blueberry']
-
-print("GO TO THIS FOLLOWING DIRECTIONS:")
-for direction in directions[:4]:
-    print(direction.title())
-
-print("THE FOLLOWING FRUITS MAKE YOU BIGGER OR SMALLER ")
-for fruit in fruits[0:3]:
-    print(fruit.title())
-
-directions = input("your decision of moving:")
+# Name: Yahya Eldarieby
+# Class: CS30
+# Date: 11/6/2019
+# Description: RPG Continuous Game Play
 
 
-for x in directions:
-    if direction.lower() == x:
-        print(direction+"!")
+# I took this code mostly from Internet and changed it to my game.
 
+import pyfiglet
 
-
-for x in fruits:
-    if fruit.lower() == x:
-        print(fruit+"!")
+# Welcome message 
+def welcome_msg():
+    
+    print(pyfiglet.figlet_format("Y. Eldarieby", font = "slant"  ))
+    msg = """
+    Rules:
+      1. This is a simple text based snake game.
+      2. Type q to quit at any time.
+      3. Type up, down, right, or left to move the snake
+      4. if the snake hits an obstacle: 
+      5. if the snake eats a fruit: 
+    """
+    print(msg)
