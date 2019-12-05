@@ -6,3 +6,4 @@ You must install python 3.7 to play this game
 
 # Run the program
 use python snakerun.py
+# This is a trial of github updates.
