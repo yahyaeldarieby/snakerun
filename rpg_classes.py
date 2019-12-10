@@ -1,3 +1,8 @@
+# Name: Yahya Eldarieby
+# Class: CS30
+# Date: 12/2/2019
+# Description: RPG Continuous Game Play with classes
+
 import sys
 from tabulate import tabulate
 import pyfiglet
