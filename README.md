@@ -1,18 +1,17 @@
 # Snakerun
-A text based game game where you eat fruits and get bigger as a snake and as you are going there will be obstacles that will stop kill you
+A text based game where a snake eats fruits and gets bigger. As you get bigger the high score increases. There will be obstacles in your way and if you hit yourself the game is over.
 
 # Installation
-You must install python 3.7 to play this game
+You must install and have python 3.7 to play this game
 
 # Run the program
-use python rpg_main_menu.py
+To run the program you simply go to the tirminal located on the bottom left and you press the + button to open the terminal. Then type python rpg_main_loop.py
 
 # The files
-rpg_intro_msg.py displays a welcome message and game instructions
-
+rpg_intro.py displays a welcome message and game instructions
 
 rpg_game_map.py. (lists/ dictionaries) has the layout for game map/board and fruits and obstacles
 
 rpg_snake.py is where the code for snake location and movement will be
 
-rpg_main_menu.py is the main loop and user input for the game
+rpg_main_loop.py is the main loop and user input for the game
