@@ -8,6 +8,8 @@ You must install and have python 3.7 to play this game
 To run the program you simply go to the tirminal located on the bottom left and you press the + button to open the terminal. Then type python rpg_main_loop.py
 
 # The files
+There will be four main files to look at.
+
 rpg_intro.py displays a welcome message and game instructions
 
 rpg_game_map.py. (lists/ dictionaries) has the layout for game map/board and fruits and obstacles
