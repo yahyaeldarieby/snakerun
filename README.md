@@ -1,5 +1,5 @@
 # Snakerun
-A text based game where a snake eats fruits and gets bigger. As you get bigger the high score increases. There will be obstacles in your way and if you hit yourself the game is over. This game is for people who like to play simple games and who have experienced python or coding before.
+A text based game where a snake eats fruits and the high score increases by 10. There will be obstacles in your way and if you hit the obstaacles the game is over. This game is for people who like to play simple games and who have experienced python or coding before.
 
 # Installation
 You must install Atom and have the version 3.7 to play this game. All coding are languages from python. 
