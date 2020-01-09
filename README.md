@@ -5,7 +5,7 @@ A text based game where a snake eats fruits and gets bigger. As you get bigger t
 You must install and have python 3.7 to play this game
 
 # Run the program
-To run the program you simply go to the tirminal located on the bottom left and you press the + button to open the terminal. Then type python rpg_main_loop.py
+To run the program you simply go to the tirminal located on the bottom left and you press the + button to open the terminal. Then type python rpg_main_loop.py and press enter to run the program. 
 
 # The files
 There will be five main files to look at.
